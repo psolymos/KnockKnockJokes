@@ -1,5 +1,5 @@
 ## This is the KKJ compendium
-source("c:/Dropbox/pkg/KnockKnockJokes/R/kkjClasses.R")
+source("~/repos/KnockKnockJokes/R/kkjClasses.R")
 kkjokes <- list(
   KnockKnockJoke(name="Abby", punch="Abby birthday to you!"),
   KnockKnockJoke(name="Adam", punch="Adam up and tell me the total."),
@@ -228,5 +228,5 @@ kkjokes <- list(
   KnockKnockJoke(name="Radio", punch="Redio not, here I come!"),
   KnockKnockJoke(name="Wood", punch="Wood you be quiet?"),
   KnockKnockJoke(name="Randy", punch="Randy mile in under four minutes."))
-save(kkjokes, file="c:/Dropbox/pkg/KnockKnockJokes/data/kkjokes.rda")
-tools:::showNonASCIIfile("c:/Dropbox/pkg/KnockKnockJokes/inst/kkjokes.R")
+save(kkjokes, file="~/repos/KnockKnockJokes/data/kkjokes.rda")
+tools:::showNonASCIIfile("~/repos/KnockKnockJokes/inst/kkjokes.R")
