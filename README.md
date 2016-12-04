@@ -8,12 +8,31 @@ An R package and S4 excercise for Knock-Knock Joke lovers.
 [![Windows build status](https://ci.appveyor.com/api/projects/status/t4wh0q3m87jjblid?svg=true)](https://ci.appveyor.com/project/psolymos/knockknockjokes)
 
 ```R
+library(KnockKnockJokes)
+
 ## create a joke object
 KnockKnockJoke(name="Alex", punch="Alex-plain later.")
+# Knock-knock!
+#     Who's there?
+# Alex.
+#     Alex who?
+# Alex-plain later.
+
 ## display random joke
 KnockKnock()
+# Knock-knock!
+#     Who's there?
+# Orange.
+#     Orange who?
+# Orange you going to open this door?
+
 ## display 1st joke from list
 KnockKnock(1)
+# Knock-knock!
+#     Who's there?
+# Abby.
+#     Abby who?
+# Abby birthday to you!
 ```
 
 ## Install
