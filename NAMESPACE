@@ -1,1 +1,3 @@
-export(KnockKnockJoke, KnockKnock)
+export("KnockKnockJoke", "KnockKnock")
+
+importFrom("methods", "new")
