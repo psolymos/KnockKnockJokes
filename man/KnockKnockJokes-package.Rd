@@ -12,12 +12,9 @@ An S4 exercise for Knock-Knock Joke lovers.
 Main function: \code{\link{KnockKnock}}
 }
 \author{
-Peter Solymos
+Bence, Lilla, and Peter Solymos
 
 Maintainer: Peter Solymos <psolymos@gmail.com>
-}
-\references{
-\url{http://cran.r-project.org/package=KnockKnockJokes}
 }
 \keyword{ package }
 \examples{
