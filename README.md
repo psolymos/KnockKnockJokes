@@ -6,7 +6,6 @@ An R package and S4 excercise for Knock-Knock Joke lovers.
 [![CRAN RStudio mirror downloads](http://cranlogs.r-pkg.org/badges/grand-total/KnockKnockJokes)](http://cran.rstudio.com/web/packages/KnockKnockJokes/index.html)
 [![Linux build Status](https://travis-ci.org/psolymos/KnockKnockJokes.svg?branch=master)](https://travis-ci.org/psolymos/KnockKnockJokes)
 [![Windows build status](https://ci.appveyor.com/api/projects/status/t4wh0q3m87jjblid?svg=true)](https://ci.appveyor.com/project/psolymos/knockknockjokes)
-[![Code coverage status](https://codecov.io/gh/psolymos/KnockKnockJokes/branch/master/graph/badge.svg)](https://codecov.io/gh/psolymos/KnockKnockJokes)
 
 ```R
 ## create a joke object
